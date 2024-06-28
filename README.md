@@ -14,7 +14,10 @@ ROS2 Galactic + Linux 20.04 focal
 **Navigation**
 
 1. ros2 launch myagv_bringup myagv.launch.py
+   
 2. ros2 launch myagv_navigation2 navigation2.launch.py
 
-<parameter>
+
+**parameter**
+
 /src/myagv_navigation2/param.yaml
